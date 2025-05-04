@@ -1,0 +1,6 @@
+class myfirs{
+    int add(){
+
+        ;
+    }
+}
