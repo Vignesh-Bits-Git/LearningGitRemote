@@ -1,1 +1,3 @@
-print("Hii php");
+echo "hi php";
+echo "second line";
+
